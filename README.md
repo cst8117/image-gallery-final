@@ -1,2 +1,4 @@
-# image-gallery
-This repository contains the starter files for the Image Gallery project.
+# Image Gallery
+
+## Objective
+Use the `transition` and `transform` properties along with other CSS properties to make the Pigs and Cats gallery more interactive and engaging.  
